@@ -1,6 +1,6 @@
 """
 calculatepi.py
-Author: <your name here>
+Author: Anoushka Alavilli
 Credit: <list sources used, if any>
 Assignment:
 
@@ -21,3 +21,4 @@ The approximate value of pi is 3.1315929
 Note: remember that the printed value of pi will be an estimate!
 
 """
+import math
